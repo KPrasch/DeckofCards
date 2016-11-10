@@ -9,6 +9,7 @@ to use:
 **To make a deck**
 
 *in terminal:*
+   
     $~ python3
     >>> from deckofcards import *
     >>> deck = Deck()
@@ -21,8 +22,11 @@ to use:
 
 
 **Shuffle your deck**
+
     >>> deck.shuffle()
 
 **Pop a card off the deck (without removing it)**
+    
     >>> deck.pop_card()
+
 # DeckofCards
