@@ -28,5 +28,6 @@ to use:
 **Pop a card off the deck (without removing it)**
     
     >>> deck.pop_card()
+    5 of hearts
 
 # DeckofCards
